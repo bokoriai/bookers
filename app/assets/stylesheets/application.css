@@ -19,11 +19,26 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 40px;
+}
+
 table {
     display: table;
 }
 
+td {
+    padding: 5px;
+}
 
 .new-post {
-    display: block;   
+    display: block;
+}
+
+.new-title {
+    margin-bottom: 10px;
+}
+
+.new-body {
+    margin-bottom: 10px;
 }
